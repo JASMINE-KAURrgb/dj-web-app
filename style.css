@@ -1,0 +1,29 @@
+b{
+    font-size: 30px;
+    color: darkblue;
+    background-image: linear-gradient(pink,hotpink);
+    font-family: fantasy;
+}
+.heading{
+    background-image: linear-gradient(blue,green);
+    color: cyan;
+    font-family: monospace;
+    border: solid 5px skyblue;
+    border-radius: 50px;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px violet;
+}
+.button_cool{
+    background-image: linear-gradient(lightblue,plum);
+    color:darkmagenta;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    border: solid 5px darkorange;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px lime;
+}
+canvas{
+    border: 5px dashed red;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px powderblue;
+}
